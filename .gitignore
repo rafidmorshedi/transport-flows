@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.pdf
+data
+network_analysis.R
+*.png
+data.zip
