@@ -8,3 +8,11 @@ Data is available [here](https://opendata.transport.nsw.gov.au/dataset/journey-w
 
 ## Data
 The data folder needs to be unzipped and saved as a folder called `data` prior to use.
+
+## Usage
+To use the code.
+
+1. Clone the repository `git clone`
+2. Unzip the data folder
+3. Open up the transport_flows.R file and make sure you have all of the required libraries installed. Othewise install them using `install.packages`
+4. Run the script
