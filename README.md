@@ -8,3 +8,6 @@ Data is available [here](https://opendata.transport.nsw.gov.au/dataset/journey-w
 
 ## Data
 The data folder needs to be unzipped and saved as a folder called `data` prior to use.
+
+## Code
+The code is written in R.
